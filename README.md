@@ -5,3 +5,6 @@
 Необходимо доработать алгоритм так, чтобы метки на выходе были без пропусков.
 
 Демонстрация работы:
+
+| ![Демонстрация](https://gitlab.com/ISU_Applied_Computer_Science/5th-semester/computer-vision/Image-labeling-algorithm/-/raw/main/raw/demo_1.png?inline=false) |
+| ------------------------------------------------------------ |
