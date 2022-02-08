@@ -6,5 +6,5 @@
 
 Демонстрация работы:
 
-| ![Демонстрация](https://gitlab.com/ISU_Applied_Computer_Science/5th-semester/computer-vision/Image-labeling-algorithm/-/raw/main/raw/demo_1.png?inline=false) |
+| ![Демонстрация](/raw/demo_1.png) |
 | ------------------------------------------------------------ |
